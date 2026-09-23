@@ -6,7 +6,7 @@ Un projet scientifique et créatif pour le cycle 3, autour de la carte programma
 [STeaMi](https://steami.cc). Des animaux-sentinelles embarquent une carte et permettent aux élèves
 de passer d'une observation du vivant à une mesure, puis à une proposition pour leur école.
 
-👉 **[Voir la présentation du projet](https://man-bal.github.io/steami/)**
+👉 **[Voir la présentation du projet](https://steamicc.github.io/bestiaire-cycle3/)**
 
 ---
 
