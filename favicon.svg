@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Abeille du Bestiaire STeaMi">
+<circle cx="32" cy="32" r="32" fill="#CFEAFF"/>
+<ellipse cx="17" cy="26" rx="11" ry="6.5" fill="#fff" transform="rotate(-32 17 26)"/>
+<ellipse cx="47" cy="26" rx="11" ry="6.5" fill="#fff" transform="rotate(32 47 26)"/>
+<clipPath id="b"><ellipse cx="32" cy="40" rx="18" ry="20"/></clipPath>
+<ellipse cx="32" cy="40" rx="18" ry="20" fill="#FFC53A"/>
+<g clip-path="url(#b)"><rect x="12" y="44" width="40" height="6.5" fill="#2B2A33"/><rect x="12" y="55" width="40" height="6.5" fill="#2B2A33"/></g>
+<circle cx="32" cy="27" r="13" fill="#101214"/>
+<path d="M23 28 a4.6 4.6 0 0 1 9 0" fill="none" stroke="#F7D117" stroke-width="3" stroke-linecap="round"/>
+<path d="M33 28 a4.6 4.6 0 0 1 9 0" fill="none" stroke="#F7D117" stroke-width="3" stroke-linecap="round"/>
+<path d="M24 15 l-4 -7 M40 15 l4 -7" stroke="#101214" stroke-width="3" stroke-linecap="round"/>
+</svg>
