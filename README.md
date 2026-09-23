@@ -7,7 +7,7 @@ pour observer le vivant, mesurer l'environnement et comparer nos perceptions.
 
 | Dossier | Contenu |
 |---|---|
-| `presentation/` | La page de présentation du projet (`bestiaire-steami-presentation.html`), à ouvrir dans un navigateur |
+| `index.html` | La page de présentation du projet, publiée avec GitHub Pages |
 | `presentation/generateur/` | Les scripts Python qui produisent la page et ses illustrations |
 | `texte/` | Le texte seul, en Markdown, importable dans Notion |
 
@@ -15,7 +15,7 @@ pour observer le vivant, mesurer l'environnement et comparer nos perceptions.
 
 ```bash
 cd presentation/generateur
-python3 site.py        # écrit ../bestiaire-steami-presentation.html
+python3 site.py        # écrit la page, puis la copier vers ../../index.html
 python3 export_md.py   # écrit ../../texte/bestiaire-steami-texte-notion.md
 ```
 
